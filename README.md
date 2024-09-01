@@ -23,3 +23,7 @@ You can install the required packages using `pip`:
 
 ```bash
 pip install requests beautifulsoup4 lxml
+```
+### Usage
+![image](https://github.com/user-attachments/assets/7bdbbd24-723b-4327-8e1d-76495424f1c6)
+
